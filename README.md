@@ -1,4 +1,4 @@
-# new-channels
+# Rocket Chat Channel
 
 Discuss about new channel proposals our share your finished channels in the [proposal issue](https://github.com/laravel-notification-channels/new-channels/issues/6).
 
